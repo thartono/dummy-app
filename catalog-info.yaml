@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dummy-app
+  annotations:
+    github.com/project-slug: thartono/dummy-app
+spec:
+  type: other
+  lifecycle: unknown
+  owner: thartono@twilio.com

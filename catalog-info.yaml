@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: dummy-app
+  description: A sample service for testing Backstage functionality. Configured for GitHub Actions.
   annotations:
     github.com/project-slug: thartono/dummy-app
 spec:

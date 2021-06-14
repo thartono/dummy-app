@@ -4,6 +4,7 @@ metadata:
   name: dummy-app
   description: A sample service for testing Backstage functionality.
   annotations:
+    backstage.io/source-location: url:https://github.com/thartono/dummy-app/
     github.com/project-slug: thartono/dummy-app
     backstage.io/techdocs-ref: url:https://github.com/thartono/dummy-app
   links: 
